@@ -183,7 +183,8 @@ object OskiRetailers {
     rfAllAvgAll.groupBy("testGroup").avg().coalesce(1).write.mode("overwrite").option("header", "true").csv("data/rfIndividualTestResults.csv")
 
     // Test results by test groups
-    val rfAllPostMinusPreWkAvg = rfAllAvgAll.selectExpr("id", "testGroup", "wkAvg76Post - wkAvg76Pre AS 76Diff", "wkAvg67Post - wkAvg67Pre AS 67Diff", "wkAvg78Post - wkAvg78Pre AS 78Diff", "wkAvg89Post - wkAvg89Pre AS 89Diff")
+    val rfAllPostMinusPreWkAvg = rfAllAvgAll.selectExpr("id", "testGroup", "wkAvg76Post - wkAvg76Pre AS 76Diff", "wkAvg67Post - wkAvg67Pre AS 67Diff",
+      "wkAvg78Post - wkAvg78Pre AS 78Diff", "wkAvg89Post - wkAvg89Pre AS 89Diff")
     rfAllPostMinusPreWkAvg.coalesce(1).write.mode("overwrite").option("header", "true").csv("data/rfAllPostMinusPreWkAvg.csv")
     rfAllPostMinusPreWkAvg.groupBy("testGroup").avg().coalesce(1).write.mode("overwrite").option("header", "true").csv("data/rfTestGroupResults.csv")
 
