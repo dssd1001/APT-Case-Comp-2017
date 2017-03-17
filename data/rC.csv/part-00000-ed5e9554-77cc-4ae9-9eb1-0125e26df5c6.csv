@@ -1,0 +1,364 @@
+id,testGroup,storeLocType,storeAge,pop5mi,comp5mi
+1,Control,Urban - Standalone,8,388000,45
+2,Control,Suburban - Standalone,38,66000,45
+3,Control,Urban - Standalone,36,13000,6
+4,Control,Suburban - Strip Mall,39,4000,8
+5,Control,Suburban - Standalone,20,111000,3
+6,Control,Suburban - Standalone,36,269000,6
+7,Control,Urban - Standalone,22,115000,3
+9,Control,Suburban - Standalone,26,279000,7
+10,Control,Suburban - Strip Mall,37,30000,59
+13,Control,Suburban - Standalone,35,151000,18
+14,Control,Rural - Standalone,15,55000,63
+15,Control,Suburban - Standalone,30,8000,50
+18,Control,Urban - Strip Mall,35,298000,10
+20,Control,Urban - Strip Mall,39,75000,6
+22,Control,Urban - Standalone,9,161000,4
+23,Control,Rural - Strip Mall,14,55000,1
+25,Control,Suburban - Standalone,3,4000,18
+26,Control,Urban - Standalone,16,276000,12
+27,Control,Metropolitan - Standalone,21,135000,63
+28,Control,Suburban - Standalone,20,6000,6
+29,Control,Suburban - Strip Mall,4,91000,3
+30,Control,Suburban - Standalone,36,136000,6
+32,Control,Urban - Strip Mall,36,391000,106
+33,Control,Urban - Strip Mall,24,25000,33
+34,Control,Metropolitan - Standalone,30,402000,37
+35,Control,Suburban - Standalone,13,5000,35
+36,Control,Suburban - Standalone,9,25000,28
+37,Control,Suburban - Strip Mall,27,6000,0
+38,Control,Suburban - Strip Mall,4,345000,21
+39,Control,Suburban - Standalone,9,5000,16
+40,Control,Urban - Standalone,11,25000,14
+41,Control,Urban - Strip Mall,9,19000,15
+42,Control,Suburban - Strip Mall,11,19000,1
+43,Control,Rural - Standalone,14,6000,30
+44,Control,Suburban - Strip Mall,4,94000,26
+46,Control,Suburban - Strip Mall,7,71000,26
+47,Control,Urban - Standalone,17,97000,8
+48,Control,Suburban - Standalone,40,3000,12
+49,Control,Metropolitan - Strip Mall,41,442000,11
+51,Control,Urban - Standalone,40,26000,88
+52,Control,Urban - Standalone,35,75000,27
+54,Control,Metropolitan - Strip Mall,28,12000,39
+55,Control,Suburban - Strip Mall,38,111000,3
+56,Control,Suburban - Standalone,31,14000,5
+58,Control,Rural - Strip Mall,25,30000,1
+60,Control,Metropolitan - Standalone,21,69000,53
+61,Control,Urban - Strip Mall,7,214000,5
+62,Control,Suburban - Strip Mall,31,12000,1
+63,Control,Suburban - Strip Mall,17,32000,25
+64,Control,Rural - Standalone,33,35000,2
+65,Control,Rural - Standalone,21,46000,52
+66,Control,Urban - Standalone,39,453000,43
+67,Control,Suburban - Strip Mall,32,115000,58
+68,Control,Rural - Strip Mall,38,21000,1
+69,Control,Suburban - Strip Mall,18,384000,8
+70,Control,Suburban - Standalone,8,7000,1
+72,Control,Urban - Standalone,27,75000,54
+73,Control,Metropolitan - Standalone,27,49000,103
+74,Control,Suburban - Standalone,15,113000,18
+76,Control,Urban - Strip Mall,17,725000,41
+77,Control,Suburban - Standalone,27,276000,6
+78,Control,Suburban - Strip Mall,2,259000,74
+79,Control,Urban - Standalone,39,129000,3
+80,Control,Suburban - Strip Mall,30,203000,9
+81,Control,Urban - Strip Mall,23,189000,88
+82,Control,Rural - Standalone,12,50000,26
+83,Control,Suburban - Strip Mall,27,23000,1
+84,Control,Urban - Strip Mall,36,157000,40
+85,Control,Suburban - Standalone,16,5000,6
+86,Control,Suburban - Standalone,11,441000,10
+88,Control,Suburban - Standalone,23,469000,11
+90,Control,Rural - Standalone,21,116000,9
+91,Control,Suburban - Strip Mall,1,137000,27
+92,Control,Suburban - Standalone,8,472000,29
+93,Control,Rural - Strip Mall,22,273000,61
+94,Control,Rural - Strip Mall,21,405000,59
+95,Control,Urban - Standalone,39,450000,28
+96,Control,Rural - Standalone,17,123000,16
+97,Control,Urban - Standalone,25,8000,4
+99,Control,Urban - Standalone,10,64000,27
+100,Control,Suburban - Strip Mall,6,21000,7
+105,Control,Suburban - Strip Mall,5,243000,12
+106,Control,Rural - Standalone,25,298000,18
+107,Control,Rural - Strip Mall,37,5000,10
+108,Control,Urban - Strip Mall,19,48000,4
+109,Control,Suburban - Strip Mall,19,412000,8
+110,Control,Suburban - Strip Mall,10,6000,23
+111,Control,Urban - Strip Mall,11,105000,9
+112,Control,Suburban - Standalone,36,220000,14
+113,Control,Rural - Standalone,13,241000,5
+114,Control,Suburban - Strip Mall,14,21000,1
+115,Control,Metropolitan - Strip Mall,25,384000,9
+117,Control,Suburban - Standalone,17,4000,56
+118,Control,Suburban - Strip Mall,5,123000,4
+119,Control,Urban - Standalone,24,446000,65
+120,Control,Urban - Standalone,22,89000,5
+121,Control,Urban - Strip Mall,6,213000,97
+122,Control,Urban - Standalone,41,119000,9
+123,Control,Suburban - Strip Mall,2,173000,7
+124,Control,Suburban - Strip Mall,35,20000,67
+125,Control,Urban - Standalone,11,6000,79
+126,Control,Rural - Standalone,23,55000,2
+127,Control,Rural - Standalone,13,58000,61
+129,Control,Suburban - Standalone,34,251000,6
+130,Control,Suburban - Strip Mall,9,158000,13
+131,Control,Urban - Standalone,8,67000,3
+133,Control,Urban - Standalone,26,73000,2
+134,Control,Rural - Strip Mall,11,317000,22
+135,Control,Suburban - Standalone,40,80000,41
+139,Control,Metropolitan - Standalone,15,13000,28
+140,Control,Urban - Strip Mall,15,475000,11
+141,Control,Suburban - Standalone,27,60000,2
+142,Control,Urban - Standalone,38,51000,2
+143,Control,Metropolitan - Strip Mall,41,94000,2
+144,Control,Metropolitan - Standalone,26,15000,1
+145,Control,Rural - Standalone,35,396000,50
+146,Control,Metropolitan - Strip Mall,33,19000,1
+147,Control,Suburban - Strip Mall,27,57000,3
+148,Control,Urban - Strip Mall,8,147000,13
+149,Control,Urban - Standalone,6,106000,15
+150,Control,Metropolitan - Strip Mall,24,24000,5
+151,Control,Metropolitan - Strip Mall,39,221000,90
+153,Control,Suburban - Strip Mall,12,5000,6
+154,Control,Suburban - Standalone,17,254000,57
+156,Control,Suburban - Strip Mall,33,4000,37
+157,Control,Urban - Strip Mall,18,339000,19
+160,Control,Suburban - Strip Mall,19,66000,67
+161,Control,Rural - Strip Mall,37,179000,9
+162,Control,Suburban - Standalone,41,5000,3
+165,Control,Suburban - Standalone,34,350000,59
+166,Control,Metropolitan - Strip Mall,22,208000,7
+167,Control,Suburban - Strip Mall,39,36000,9
+170,Control,Rural - Standalone,29,325000,36
+172,Control,Suburban - Standalone,35,128000,3
+175,Control,Suburban - Standalone,24,399000,52
+176,Control,Suburban - Standalone,40,353000,18
+177,Control,Suburban - Standalone,30,11000,54
+178,Control,Urban - Standalone,5,49000,37
+179,Control,Metropolitan - Standalone,36,397000,9
+181,Control,Rural - Strip Mall,24,27000,3
+182,Control,Suburban - Strip Mall,4,468000,88
+183,Control,Urban - Standalone,18,104000,59
+184,Control,Suburban - Strip Mall,3,206000,5
+186,Control,Urban - Strip Mall,6,113000,10
+187,Control,Suburban - Standalone,26,388000,33
+189,Control,Urban - Standalone,12,86000,3
+190,Control,Urban - Standalone,8,299000,11
+191,Control,Suburban - Strip Mall,34,35000,19
+192,Control,Suburban - Standalone,22,206000,10
+193,Control,Urban - Strip Mall,19,318000,9
+194,Control,Urban - Standalone,13,25000,20
+195,Control,Urban - Strip Mall,6,132000,13
+197,Control,Urban - Standalone,24,159000,8
+198,Control,Urban - Standalone,41,160000,10
+199,Control,Suburban - Standalone,40,343000,26
+202,Control,Urban - Standalone,7,172000,4
+203,Control,Suburban - Strip Mall,14,165000,5
+204,Control,Urban - Strip Mall,8,124000,4
+205,Control,Rural - Strip Mall,21,4000,1
+206,Control,Suburban - Standalone,29,382000,42
+209,Control,Urban - Standalone,17,183000,4
+210,Control,Suburban - Strip Mall,17,459000,58
+211,Control,Suburban - Standalone,11,41000,18
+212,Control,Urban - Strip Mall,8,64000,2
+213,Control,Suburban - Standalone,2,352000,9
+214,Control,Suburban - Standalone,38,474000,9
+215,Control,Suburban - Standalone,39,22000,1
+216,Control,Rural - Strip Mall,39,106000,18
+217,Control,Rural - Standalone,19,223000,10
+218,Control,Metropolitan - Strip Mall,28,204000,9
+219,Control,Urban - Standalone,7,72000,13
+220,Control,Metropolitan - Strip Mall,17,7000,6
+222,Control,Suburban - Strip Mall,21,217000,17
+224,Control,Suburban - Standalone,32,467000,30
+225,Control,Suburban - Standalone,12,130000,15
+226,Control,Urban - Standalone,7,342000,8
+227,Control,Suburban - Strip Mall,17,182000,10
+228,Control,Suburban - Strip Mall,38,31000,54
+230,Control,Urban - Strip Mall,13,6000,1
+231,Control,Rural - Strip Mall,34,279000,30
+232,Control,Suburban - Strip Mall,27,24000,1
+233,Control,Urban - Standalone,25,340000,38
+234,Control,Suburban - Standalone,15,198000,7
+235,Control,Urban - Standalone,9,10000,16
+236,Control,Suburban - Strip Mall,24,189000,84
+237,Control,Urban - Standalone,6,28000,6
+239,Control,Suburban - Standalone,15,85000,30
+240,Control,Suburban - Strip Mall,40,336000,53
+241,Control,Suburban - Standalone,40,44000,6
+242,Control,Suburban - Standalone,22,66000,2
+243,Control,Urban - Standalone,15,343000,26
+244,Control,Suburban - Standalone,40,420000,10
+247,Control,Urban - Strip Mall,9,193000,11
+250,Control,Urban - Strip Mall,5,206000,18
+251,Control,Suburban - Standalone,16,230000,7
+253,Control,Suburban - Strip Mall,19,38000,2
+254,Control,Suburban - Strip Mall,28,223000,10
+255,Control,Urban - Standalone,7,349000,11
+256,Control,Suburban - Standalone,10,103000,40
+258,Control,Rural - Standalone,11,52000,7
+259,Control,Suburban - Standalone,1,131000,60
+260,Control,Urban - Standalone,7,481000,30
+261,Control,Rural - Strip Mall,26,80000,13
+263,Control,Suburban - Standalone,36,260000,8
+264,Control,Suburban - Standalone,35,90000,28
+265,Control,Suburban - Strip Mall,3,486000,71
+266,Control,Rural - Standalone,12,398000,9
+268,Control,Suburban - Standalone,27,49000,2
+269,Control,Suburban - Strip Mall,23,172000,18
+270,Control,Suburban - Standalone,29,9000,2
+271,Control,Rural - Strip Mall,14,54000,6
+272,Control,Suburban - Strip Mall,9,121000,61
+273,Control,Suburban - Standalone,20,21000,12
+274,Control,Urban - Standalone,37,6000,2
+275,Control,Suburban - Standalone,3,401000,32
+276,Control,Urban - Standalone,13,406000,73
+278,Control,Suburban - Standalone,3,22000,5
+279,Control,Rural - Strip Mall,38,334000,65
+280,Control,Suburban - Standalone,32,13000,1
+282,Control,Suburban - Strip Mall,4,9000,17
+283,Control,Rural - Standalone,15,5000,6
+284,Control,Urban - Standalone,41,64000,2
+285,Control,Urban - Strip Mall,34,281000,13
+287,Control,Metropolitan - Standalone,23,12000,68
+288,Control,Suburban - Strip Mall,31,49000,58
+289,Control,Urban - Strip Mall,40,22000,35
+290,Control,Suburban - Strip Mall,10,225000,21
+291,Control,Suburban - Strip Mall,14,112000,21
+292,Control,Suburban - Strip Mall,24,45000,5
+293,Control,Suburban - Strip Mall,33,396000,12
+294,Control,Urban - Standalone,13,25000,1
+295,Control,Rural - Strip Mall,21,2000,7
+296,Control,Suburban - Standalone,35,100000,33
+297,Control,Suburban - Standalone,25,46000,3
+299,Control,Suburban - Strip Mall,40,90000,49
+300,Control,Suburban - Standalone,9,12000,13
+301,Control,Suburban - Strip Mall,7,303000,8
+303,Control,Suburban - Standalone,8,5000,0
+304,Control,Suburban - Strip Mall,19,73000,40
+305,Control,Suburban - Standalone,8,337000,8
+306,Control,Urban - Standalone,31,216000,5
+307,Control,Urban - Strip Mall,16,139000,57
+309,Control,Suburban - Standalone,2,16000,13
+310,Control,Suburban - Strip Mall,10,45000,40
+311,Control,Suburban - Strip Mall,29,26000,10
+313,Control,Suburban - Standalone,7,94000,36
+314,Control,Suburban - Standalone,35,6000,1
+315,Control,Suburban - Strip Mall,16,289000,7
+316,Control,Suburban - Standalone,17,475000,71
+317,Control,Suburban - Standalone,24,172000,33
+318,Control,Suburban - Standalone,3,10000,6
+319,Control,Suburban - Standalone,27,9000,2
+320,Control,Urban - Standalone,18,470000,55
+321,Control,Metropolitan - Strip Mall,33,700000,3
+322,Control,Urban - Standalone,32,340000,23
+325,Control,Urban - Standalone,36,143000,4
+327,Control,Suburban - Strip Mall,39,153000,22
+328,Control,Metropolitan - Strip Mall,22,263000,62
+329,Control,Suburban - Strip Mall,37,366000,17
+331,Control,Urban - Strip Mall,6,133000,7
+332,Control,Rural - Standalone,32,182000,19
+335,Control,Urban - Standalone,20,342000,15
+336,Control,Suburban - Strip Mall,22,41000,57
+338,Control,Urban - Strip Mall,33,8000,9
+339,Control,Suburban - Strip Mall,30,90000,63
+340,Control,Suburban - Standalone,38,58000,2
+341,Control,Suburban - Standalone,21,190000,4
+342,Control,Suburban - Strip Mall,1,47000,15
+343,Control,Suburban - Standalone,16,7000,0
+346,Control,Urban - Strip Mall,31,39000,71
+347,Control,Suburban - Standalone,25,159000,4
+348,Control,Suburban - Strip Mall,34,287000,7
+349,Control,Suburban - Standalone,3,21000,1
+350,Control,Rural - Standalone,41,11000,2
+352,Control,Suburban - Standalone,19,7000,1
+354,Control,Suburban - Standalone,31,105000,28
+355,Control,Suburban - Standalone,23,50000,11
+356,Control,Metropolitan - Standalone,18,137000,54
+358,Control,Suburban - Strip Mall,38,19000,2
+359,Control,Urban - Strip Mall,21,230000,12
+360,Control,Suburban - Strip Mall,2,140000,13
+361,Control,Suburban - Standalone,5,138000,25
+362,Control,Suburban - Standalone,8,273000,9
+363,Control,Suburban - Standalone,22,430000,42
+364,Control,Suburban - Standalone,13,33000,71
+367,Control,Metropolitan - Strip Mall,29,1000000,95
+368,Control,Rural - Standalone,28,436000,22
+369,Control,Urban - Strip Mall,13,109000,3
+370,Control,Urban - Standalone,27,327000,10
+371,Control,Urban - Strip Mall,10,267000,18
+372,Control,Suburban - Standalone,40,419000,81
+373,Control,Suburban - Strip Mall,4,25000,24
+376,Control,Rural - Standalone,16,171000,12
+379,Control,Suburban - Strip Mall,39,20000,1
+380,Control,Metropolitan - Standalone,36,340000,35
+381,Control,Suburban - Standalone,18,167000,5
+383,Control,Urban - Standalone,8,12000,33
+385,Control,Suburban - Strip Mall,25,370000,19
+386,Control,Suburban - Standalone,15,395000,48
+387,Control,Suburban - Standalone,13,325000,55
+388,Control,Suburban - Strip Mall,2,277000,6
+390,Control,Suburban - Strip Mall,37,7000,15
+391,Control,Urban - Standalone,13,226000,46
+392,Control,Suburban - Standalone,5,485000,51
+394,Control,Suburban - Standalone,3,220000,5
+396,Control,Suburban - Standalone,7,94000,4
+397,Control,Urban - Standalone,34,5000,1
+401,Control,Suburban - Strip Mall,7,57000,17
+405,Control,Suburban - Strip Mall,40,46000,1
+406,Control,Suburban - Strip Mall,8,34000,5
+407,Control,Rural - Standalone,15,380000,18
+408,Control,Rural - Strip Mall,12,94000,14
+409,Control,Urban - Strip Mall,10,251000,16
+411,Control,Suburban - Standalone,31,441000,14
+414,Control,Rural - Standalone,41,281000,9
+415,Control,Urban - Standalone,25,57000,30
+416,Control,Suburban - Standalone,37,147000,7
+417,Control,Suburban - Strip Mall,38,81000,3
+418,Control,Urban - Strip Mall,21,5000,0
+419,Control,Urban - Standalone,5,5000,0
+420,Control,Suburban - Standalone,4,5000,2
+421,Control,Suburban - Strip Mall,27,127000,50
+422,Control,Suburban - Standalone,14,6000,51
+423,Control,Suburban - Standalone,37,178000,88
+426,Control,Urban - Standalone,6,149000,63
+428,Control,Rural - Standalone,39,6000,9
+430,Control,Suburban - Standalone,13,160000,6
+431,Control,Metropolitan - Strip Mall,35,5000,7
+432,Control,Urban - Standalone,25,145000,7
+433,Control,Suburban - Standalone,17,290000,50
+434,Control,Suburban - Standalone,36,464000,12
+435,Control,Suburban - Standalone,2,10000,58
+438,Control,Urban - Standalone,26,236000,11
+439,Control,Urban - Strip Mall,30,196000,82
+441,Control,Rural - Standalone,12,351000,11
+442,Control,Rural - Standalone,27,4000,36
+443,Control,Urban - Strip Mall,31,377000,9
+444,Control,Urban - Standalone,29,71000,18
+445,Control,Urban - Strip Mall,34,23000,56
+446,Control,Suburban - Strip Mall,29,17000,0
+447,Control,Suburban - Standalone,36,213000,10
+449,Control,Urban - Standalone,14,52000,2
+451,Control,Urban - Strip Mall,36,70000,4
+452,Control,Urban - Standalone,5,345000,14
+453,Control,Suburban - Strip Mall,25,96000,11
+456,Control,Suburban - Standalone,33,93000,18
+457,Control,Urban - Standalone,23,184000,7
+458,Control,Urban - Strip Mall,7,5000,14
+461,Control,Suburban - Standalone,9,28000,38
+462,Control,Urban - Strip Mall,30,5000,1
+463,Control,Suburban - Strip Mall,17,416000,96
+464,Control,Metropolitan - Standalone,25,17000,65
+465,Control,Rural - Strip Mall,11,46000,2
+467,Control,Suburban - Standalone,7,38000,4
+469,Control,Urban - Standalone,24,484000,74
+470,Control,Urban - Standalone,11,418000,96
+474,Control,Suburban - Strip Mall,40,242000,38
+476,Control,Metropolitan - Standalone,22,43000,7
+479,Control,Urban - Strip Mall,29,24000,3
+480,Control,Urban - Standalone,38,278000,102
+481,Control,Metropolitan - Standalone,16,256000,31
+482,Control,Suburban - Strip Mall,36,8000,0
+483,Control,Suburban - Standalone,40,137000,29

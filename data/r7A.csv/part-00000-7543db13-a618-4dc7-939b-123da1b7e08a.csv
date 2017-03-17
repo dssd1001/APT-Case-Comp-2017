@@ -1,0 +1,31 @@
+id,testGroup,storeLocType,storeAge,pop5mi,comp5mi
+21,7A,Urban - Strip Mall,24,12000,96
+31,7A,Urban - Strip Mall,13,30000,1
+71,7A,Urban - Strip Mall,21,400000,31
+102,7A,Suburban - Standalone,21,61000,2
+104,7A,Urban - Standalone,33,193000,8
+116,7A,Suburban - Standalone,34,210000,14
+155,7A,Suburban - Standalone,26,448000,31
+173,7A,Urban - Standalone,31,264000,43
+188,7A,Suburban - Strip Mall,21,436000,21
+223,7A,Metropolitan - Strip Mall,20,11000,13
+252,7A,Rural - Standalone,18,26000,1
+267,7A,Suburban - Strip Mall,28,94000,3
+281,7A,Suburban - Strip Mall,15,17000,3
+298,7A,Suburban - Standalone,26,217000,76
+324,7A,Rural - Standalone,12,17000,39
+326,7A,Urban - Standalone,9,177000,12
+333,7A,Suburban - Standalone,29,80000,51
+344,7A,Rural - Strip Mall,20,57000,3
+351,7A,Suburban - Strip Mall,17,313000,9
+353,7A,Suburban - Standalone,1,33000,5
+378,7A,Urban - Standalone,9,14000,2
+400,7A,Urban - Strip Mall,24,66000,33
+412,7A,Suburban - Strip Mall,20,233000,10
+424,7A,Suburban - Standalone,35,124000,15
+429,7A,Rural - Standalone,19,16000,0
+460,7A,Suburban - Standalone,10,17000,51
+468,7A,Urban - Standalone,18,33000,4
+473,7A,Urban - Standalone,24,321000,11
+477,7A,Metropolitan - Standalone,40,8000,15
+478,7A,Suburban - Standalone,35,78000,3

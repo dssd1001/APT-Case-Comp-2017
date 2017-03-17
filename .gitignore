@@ -1,0 +1,28 @@
+.idea/
+target/
+*.iml
+*.xml
+project/target
+*.class
+*.log
+project/
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.idea*
+.scala_dependencies
+
+# Jars
+*.jar
+
+# vim tmps
+.*sw*
+
+.DS_Store

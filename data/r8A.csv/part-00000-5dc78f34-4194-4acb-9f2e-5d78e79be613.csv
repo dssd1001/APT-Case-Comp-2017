@@ -1,0 +1,31 @@
+id,testGroup,storeLocType,storeAge,pop5mi,comp5mi
+8,7B,Urban - Standalone,29,369000,8
+11,7B,Suburban - Standalone,29,53000,1
+45,7B,Urban - Standalone,18,225000,32
+53,7B,Urban - Standalone,6,222000,6
+159,7B,Suburban - Standalone,37,262000,6
+164,7B,Suburban - Standalone,10,28000,8
+200,7B,Urban - Strip Mall,5,118000,39
+201,7B,Suburban - Standalone,5,40000,38
+277,7B,Suburban - Strip Mall,39,37000,4
+302,7B,Urban - Strip Mall,22,270000,55
+334,7B,Urban - Standalone,8,39000,35
+404,7B,Suburban - Strip Mall,32,70000,14
+440,7B,Urban - Strip Mall,19,28000,3
+448,7B,Suburban - Strip Mall,7,55000,2
+450,7B,Metropolitan - Strip Mall,25,442000,11
+454,7B,Suburban - Standalone,40,18000,16
+466,7B,Suburban - Strip Mall,13,376000,28
+57,7B,Suburban - Standalone,3,41000,47
+101,7B,Rural - Standalone,11,55000,26
+128,7B,Suburban - Standalone,30,274000,9
+132,7B,Suburban - Standalone,20,157000,5
+136,7B,Suburban - Standalone,4,87000,4
+168,7B,Suburban - Strip Mall,40,14000,34
+180,7B,Urban - Standalone,33,103000,8
+238,7B,Urban - Strip Mall,6,57000,22
+248,7B,Suburban - Strip Mall,3,268000,70
+312,7B,Suburban - Standalone,36,16000,0
+377,7B,Urban - Standalone,24,5000,2
+389,7B,Suburban - Strip Mall,9,239000,77
+459,7B,Suburban - Standalone,32,18000,38

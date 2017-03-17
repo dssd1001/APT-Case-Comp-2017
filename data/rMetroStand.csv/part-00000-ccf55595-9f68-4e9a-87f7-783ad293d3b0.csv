@@ -1,0 +1,17 @@
+id,testGroup,storeLocType,storeAge,pop5mi,comp5mi
+477,7A,Metropolitan - Standalone,40,8000,15
+103,8A,Metropolitan - Standalone,31,133000,21
+174,8A,Metropolitan - Standalone,27,8000,10
+27,Control,Metropolitan - Standalone,21,135000,63
+34,Control,Metropolitan - Standalone,30,402000,37
+60,Control,Metropolitan - Standalone,21,69000,53
+73,Control,Metropolitan - Standalone,27,49000,103
+139,Control,Metropolitan - Standalone,15,13000,28
+144,Control,Metropolitan - Standalone,26,15000,1
+179,Control,Metropolitan - Standalone,36,397000,9
+287,Control,Metropolitan - Standalone,23,12000,68
+356,Control,Metropolitan - Standalone,18,137000,54
+380,Control,Metropolitan - Standalone,36,340000,35
+464,Control,Metropolitan - Standalone,25,17000,65
+476,Control,Metropolitan - Standalone,22,43000,7
+481,Control,Metropolitan - Standalone,16,256000,31
